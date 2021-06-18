@@ -1,0 +1,19 @@
+{
+  "name": "napitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "make": "cmake-js compile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-addon-api": "^4.0.0"
+  },
+  "devDependencies": {
+    "cmake-js": "^6.1.0"
+  }
+}
